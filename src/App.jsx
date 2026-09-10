@@ -3,9 +3,9 @@ import { BrowserRouter, Routes, Route, Link, Outlet } from "react-router-dom";
 import Navbar from './COMPONENTS/Navbar';
 import Home from './PAGES/Home';
 import About from './PAGES/About';
-import Dashboard from './PAGES/Dashboard';
-import Profile from './PAGES/Profile';
-import Settings from './PAGES/Setting';
+import Dashboard from './PAGES/DASHBROAD/Dashboard';
+import Profile from './PAGES/DASHBROAD/Profile';
+import Settings from './PAGES/DASHBROAD/Setting';
 const App = () => {
   return (
     <BrowserRouter>

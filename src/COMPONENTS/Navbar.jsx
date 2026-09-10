@@ -20,7 +20,7 @@ const Navbar = () => {
                     to="/"
                     className="text-2xl font-bold text-blue-600"
                 >
-                    MyApp
+                    GANPAT UNIVERSITY
                 </Link>
 
                 {/* Desktop Menu */}
@@ -37,11 +37,6 @@ const Navbar = () => {
                     <NavLink to="/about" className={navLink}>
                         About
                     </NavLink>
-
-                    {/* Login Button */}
-                    <button className="ml-3 rounded-lg bg-gray-900 px-5 py-2 text-sm font-medium text-white transition hover:bg-gray-700">
-                        Login
-                    </button>
                 </div>
 
                 {/* Mobile Button */}
