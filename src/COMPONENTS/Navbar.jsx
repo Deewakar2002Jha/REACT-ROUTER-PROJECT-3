@@ -81,6 +81,10 @@ const Navbar = () => {
                         <button className="mt-2 rounded-lg bg-gray-900 px-5 py-2 text-white">
                             Login
                         </button>
+                        <button className="mt-2 rounded-lg bg-gray-900 px-5 py-2 text-white">
+                            Signup
+                        </button>
+
 
                     </div>
                 </div>
